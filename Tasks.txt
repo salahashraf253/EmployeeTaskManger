@@ -1,0 +1,7 @@
+WebPage Delivery , four web pages you need to deliver with their implementation , 5/31/2021,1/5/2021,Tarek,0,6
+Gui Discussion , 10 forms  you need to deliver with their implementation , 5/5/2021,8/6/2021,Sara,0,2
+Math Assigment , you must solve all required problems , 5/5/2021,8/6/2021,Sara,0,2
+Math Assigment , you must solve all required problems , 5/5/2021,8/6/2021,Ahmed,0,1
+Math Assigment , you must solve all required problems , 5/5/2021,8/6/2021,Ziad,0,3
+Crystal Report , you must send all data needed for the databse tables , 12/5/2021,5/6/2021,Raghad,0,5
+Crystal Report , you must send all data needed for the databse tables , 12/5/2021,5/6/2021,Salah,0,4
